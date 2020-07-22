@@ -3,10 +3,6 @@ date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 ulang:
 // function change(){
-echo color("red","                    BANDIT VOCER\n");
-echo color("green","                 Banditz 32 channel\n");
-echo color("red","                 LOSS DOLL RAK REWEL\n") ;
-echo color("yellow","           Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
 echo color("green","                    B-32 TEAM       \n");
 echo color("red","          Format Kode 08/62 loss karepmu\n");
         $nama = nama();
